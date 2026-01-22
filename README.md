@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashi
-- 🧠 Data & Analytics Engineer working with clickstream, analytics, and data modeling
-- 🛠️ Stack: SQL, BigQuery, dbt, Spark, Scala, Azure
+- 🧠 Data & Analytics Engineer working with clickstream, analytics, and data modeling at 50+ MAU scale.
+- 🛠️ Stack: SQL, BigQuery, dbt, Python, Airflow, Looker, Superset
 - 🤝 Open to collaborating on analytics engineering & data platform projects
 - 📫 Reach me: ashiagrawal06@gmail.com | LinkedIn(https://www.linkedin.com/in/ashi-agrawal-782205189/)
 
